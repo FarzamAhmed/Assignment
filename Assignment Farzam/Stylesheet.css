@@ -1,0 +1,43 @@
+.nav-link{
+    font-weight: 500;
+}
+#VisibleImage{
+    width: 400px;
+    margin-left: 140px;
+    height: auto;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    display: block;
+}
+.choosefile{
+    display: block;
+    margin-left: 200px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    display: block;
+}
+.photoupload{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    display: block;
+}
+.productinfo{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.table{
+    width: 900px;
+    margin: auto;
+    border: 2px solid rgba(5, 15, 49, 0.726);
+}
+.pagebody{
+    margin-top: 100px;
+}
+.productImage{
+    width:100px;
+    height:100px;
+    background-size:cover;
+}
